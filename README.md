@@ -28,6 +28,8 @@
 ### Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=anaconda,py,mysql,github,git,vscode)
 
+![Hamza-313's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-313&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-313&theme=dark)
 
 
