@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
  <a>
-  <a href="https://www.linkedin.com/hamza-naeem-3446b0380" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/Homii313" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
