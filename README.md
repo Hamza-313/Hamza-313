@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm Hamza Naeem</h1>
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Machine Learning
@@ -17,6 +17,12 @@
    <a href="https://fb.com/Hamza Naeem">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+ <a>
+  <a href="https://www.linkedin.com/hamza-naeem-3446b0380" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+
+ </a>
 </div>
 
 ### Languages and Tools:
