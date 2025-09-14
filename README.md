@@ -20,7 +20,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=JupyterNotebook,PowerBi,SQL,github,git,Excel,VsCode,GoogleCollab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,PowerBi,mysql,github,git,Excel,VsCode,GoogleCollab)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
