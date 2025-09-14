@@ -19,15 +19,15 @@
   </a>
  <a>
   <a href="https://www.linkedin.com/hamza-naeem-3446b0380" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
  </a>
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,py,mysql,github,git,vscode)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=anaconda,py,mysql,github,git,vscode)]
+(https://skillicons.dev)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-313&theme=dark)
 
 
