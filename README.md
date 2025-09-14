@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,py,mysql,github,git,vscode)]
+![My Skills](https://skillicons.dev/icons?i=anaconda,py,mysql,github,git,vscode)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-313&theme=dark)
 
